@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="6" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-24T19:00:37 IST" name="Suite" finished-at="2021-12-24T19:00:37 IST" duration-ms="64">
+    <groups>
+      <group name="smoke">
+        <method signature="APITest.api_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.APITest@5d7148e2]" name="api_test_1" class="Maven_ananth_test.Mavenjava.APITest"/>
+        <method signature="AppiumTest.appium_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.AppiumTest@434a63ab]" name="appium_test_1" class="Maven_ananth_test.Mavenjava.AppiumTest"/>
+        <method signature="SelelniumTest.selenium_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.SelelniumTest@2ea41516]" name="selenium_test_1" class="Maven_ananth_test.Mavenjava.SelelniumTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2021-12-24T19:00:37 IST" name="Test" finished-at="2021-12-24T19:00:37 IST" duration-ms="64">
+      <class name="Maven_ananth_test.Mavenjava.SelelniumTest">
+        <test-method signature="selenium_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.SelelniumTest@2ea41516]" started-at="2021-12-24T19:00:37 IST" name="selenium_test_1" finished-at="2021-12-24T19:00:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium_test_1 -->
+      </class> <!-- Maven_ananth_test.Mavenjava.SelelniumTest -->
+      <class name="Maven_ananth_test.Mavenjava.AppiumTest">
+        <test-method signature="appium_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.AppiumTest@434a63ab]" started-at="2021-12-24T19:00:37 IST" name="appium_test_1" finished-at="2021-12-24T19:00:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium_test_1 -->
+      </class> <!-- Maven_ananth_test.Mavenjava.AppiumTest -->
+      <class name="Maven_ananth_test.Mavenjava.APITest">
+        <test-method signature="api_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.APITest@5d7148e2]" started-at="2021-12-24T19:00:37 IST" name="api_test_1" finished-at="2021-12-24T19:00:37 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_test_1 -->
+      </class> <!-- Maven_ananth_test.Mavenjava.APITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

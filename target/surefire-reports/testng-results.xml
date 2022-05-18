@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-27T13:21:22 IST" name="Command line suite" finished-at="2021-12-27T13:21:22 IST" duration-ms="68">
+    <groups>
+      <group name="smoke">
+        <method signature="APITest.api_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.APITest@7bc1a03d]" name="api_test_1" class="Maven_ananth_test.Mavenjava.APITest"/>
+        <method signature="AppiumTest.appium_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.AppiumTest@58c1c010]" name="appium_test_1" class="Maven_ananth_test.Mavenjava.AppiumTest"/>
+        <method signature="SelelniumTest.selenium_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.SelelniumTest@3f200884]" name="selenium_test_1" class="Maven_ananth_test.Mavenjava.SelelniumTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2021-12-27T13:21:22 IST" name="Command line test" finished-at="2021-12-27T13:21:22 IST" duration-ms="68">
+      <class name="Maven_ananth_test.Mavenjava.SelelniumTest">
+        <test-method is-config="true" signature="b4test()[pri:0, instance:Maven_ananth_test.Mavenjava.SelelniumTest@3f200884]" started-at="2021-12-27T13:21:22 IST" name="b4test" finished-at="2021-12-27T13:21:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b4test -->
+        <test-method is-config="true" signature="b4test()[pri:0, instance:Maven_ananth_test.Mavenjava.SelelniumTest@3f200884]" started-at="2021-12-27T13:21:22 IST" name="b4test" finished-at="2021-12-27T13:21:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b4test -->
+        <test-method signature="selenium_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.SelelniumTest@3f200884]" started-at="2021-12-27T13:21:22 IST" name="selenium_test_1" finished-at="2021-12-27T13:21:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium_test_1 -->
+        <test-method signature="selenium_test_2()[pri:0, instance:Maven_ananth_test.Mavenjava.SelelniumTest@3f200884]" started-at="2021-12-27T13:21:22 IST" name="selenium_test_2" finished-at="2021-12-27T13:21:22 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selenium_test_2 -->
+      </class> <!-- Maven_ananth_test.Mavenjava.SelelniumTest -->
+      <class name="Maven_ananth_test.Mavenjava.AppiumTest">
+        <test-method signature="appium_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.AppiumTest@58c1c010]" started-at="2021-12-27T13:21:22 IST" name="appium_test_1" finished-at="2021-12-27T13:21:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium_test_1 -->
+        <test-method signature="appium_test_2()[pri:0, instance:Maven_ananth_test.Mavenjava.AppiumTest@58c1c010]" started-at="2021-12-27T13:21:22 IST" name="appium_test_2" finished-at="2021-12-27T13:21:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appium_test_2 -->
+      </class> <!-- Maven_ananth_test.Mavenjava.AppiumTest -->
+      <class name="Maven_ananth_test.Mavenjava.APITest">
+        <test-method signature="api_test_1()[pri:0, instance:Maven_ananth_test.Mavenjava.APITest@7bc1a03d]" started-at="2021-12-27T13:21:22 IST" name="api_test_1" finished-at="2021-12-27T13:21:22 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_test_1 -->
+        <test-method signature="api_test_2()[pri:0, instance:Maven_ananth_test.Mavenjava.APITest@7bc1a03d]" started-at="2021-12-27T13:21:22 IST" name="api_test_2" finished-at="2021-12-27T13:21:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_test_2 -->
+      </class> <!-- Maven_ananth_test.Mavenjava.APITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
